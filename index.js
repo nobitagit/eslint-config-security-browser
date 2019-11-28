@@ -10,7 +10,7 @@ module.exports = {
   rules: {
     "no-unsanitized/method": 1,
     "no-unsanitized/property": 1,
-    "prototype-pollution-security-rules/detect-deep-extend": 1
+    "prototype-pollution-security-rules/detect-deep-extend": 1,
     "prototype-pollution-security-rules/detect-merge-objects": 1,
     "prototype-pollution-security-rules/detect-merge-options": 1,
     "prototype-pollution-security-rules/detect-merge": 1,
@@ -48,6 +48,6 @@ module.exports = {
     "scanjs-rules/property_indexedDB": 1,
     "scanjs-rules/property_localStorage": 1,
     "scanjs-rules/property_mgmt": 1,
-    "scanjs-rules/property_sessionStorage": 1,
+    "scanjs-rules/property_sessionStorage": 1
   }
 };
