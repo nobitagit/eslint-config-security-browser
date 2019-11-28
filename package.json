@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-security-browser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of eslint rules that favour security best practices when coding for the browser",
   "main": "index.js",
   "scripts": {},
