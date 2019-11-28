@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-security-browser",
+  "version": "0.0.1",
+  "description": "A collection of eslint rules that favour security best practices when coding for the browser",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "eslint",
+    "config",
+    "security"
+  ],
+  "author": "Aurelio Ogliari",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 5",
+    "eslint-plugin-no-unsanitized": "^3.0.2",
+    "eslint-plugin-prototype-pollution-security-rules": "^1.0.6",
+    "eslint-plugin-scanjs-rules": "^0.2.1"
+  }
+}
