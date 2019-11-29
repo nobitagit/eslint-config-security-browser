@@ -1,6 +1,6 @@
 # Eslint config security (browser)
 
-A collection of rules and plugins aimed at highlighting potential security threads in client side JavaScript code.
+A collection of rules and plugins aimed at highlighting potential security threats in client side JavaScript codebases.
 
 ## Installation
 
